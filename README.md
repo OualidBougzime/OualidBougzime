@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Oualid Bougzime
 
-<!--
-**OualidBougzime/OualidBougzime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer with passion for frontend developer.
 
-Here are some ideas to get you started:
+- 💼 I'm currently working on [Nom du Projet] a job application tracking web app built using [Technologies]
+- 🏆 All of my projects are available at [votre-site-portfolio]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Most Used Languages
+<!-- Cette section sera automatiquement générée par GitHub -->
+
+## Oualid's GitHub Stats
+<!-- Ces statistiques seront générées par des badges -->
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oualid-bougzime-6857a9177/)
+<!-- Ajoutez ici d'autres liens vers vos réseaux sociaux -->
