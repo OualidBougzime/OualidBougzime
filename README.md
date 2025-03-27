@@ -8,6 +8,7 @@ PhD Student at the University of Technology Belfort-Montbéliard
 - 4D Printing
 - Neuro Symbolic AI
 - Deep Learning Applications
+- Ontology
 
 ## Connect with me:
 
